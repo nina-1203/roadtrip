@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Noto Serif', serif;
+	font-size: 18px
+	margin: 0px;
+	background-color: #f2f6f5;
+}
+
+h1, h2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+ h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    color: #63707e;
+}
+
+a{
+	text-decoration: none;
+}
